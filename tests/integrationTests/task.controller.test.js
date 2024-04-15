@@ -1,4 +1,4 @@
-import { startDateToStartTime, endDateToEndTime, durationCalculator } from './dateUtils';
+import { startDateToStartTime, endDateToEndTime, durationCalculator } from './dateUtils.js';
 
 describe('startDateToStartTime', () => {
   test('converts start date to start time', () => {
